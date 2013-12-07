@@ -6,7 +6,7 @@ This document is made by [gitfab](http://gitfab.org)
 Elementary School (6-12)
 
 
-![IMG_2918.JPG](https://raw.github.com/dadaa/classrecipe-template/master/gitfab/resources/IMG_2918.JPG)
+![2013_0808_GeduLunch.jpg](https://raw.github.com/russianblueao/classrecipe-template/master/gitfab/resources/2013_0808_GeduLunch.jpg)
 ---
 #Scale
 1 classroom (~30)
@@ -30,4 +30,6 @@ skill
 * PC *Installed latest [Firefox](http://www.mozilla.org/en-US/firefox/)
 * Popcorn Maker
 * Screen for presentation
+---
+#教える手順
 ---
