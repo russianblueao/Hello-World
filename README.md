@@ -1,5 +1,5 @@
-# classrecipe-template
-## elementary,social,classroom
+# Self-Introduction
+## self-intro,thimble
 This document is made by [gitfab](http://gitfab.org)
 ---
 #Target
@@ -31,5 +31,5 @@ skill
 * Popcorn Maker
 * Screen for presentation
 ---
-#教える手順
+#Instruction
 ---
